@@ -1,5 +1,5 @@
 <?php
 define('C_REST_WEB_HOOK_URL', 'https://gicrm.ae/rest/1945/7mnw3te56u363prw/'); //url on creat Webhook
-// define('C_REST_CLIENT_ID', 'local.6764fde435a768.91724346');
-// define('C_REST_CLIENT_SECRET', 'M8Dl22t5VJJMwE1ZEEmdRy5q5JyttoPhUn4BgfVZ49g55kUtji');
+define('C_REST_CLIENT_ID', 'local.67a6f15102a442.86390350');
+define('C_REST_CLIENT_SECRET', 'ccFvic4qe3U6o80dmHt9ooOHeA2sEM6xuzH0bPi6Z3dHbqRq12');
 define('C_REST_BLOCK_LOG', true); //Application ID
